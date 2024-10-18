@@ -1,0 +1,6 @@
+com\upiiz\users\repository\UsersRepository.class
+com\upiiz\users\UsuariosApplication.class
+com\upiiz\users\controllers\UsersController.class
+com\upiiz\users\services\UsersServiceJSON.class
+com\upiiz\users\services\UsersServices.class
+com\upiiz\users\models\User.class
